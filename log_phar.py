@@ -1,3 +1,5 @@
 a=52
 b=645
-print(a+b)
+c=234
+print(a+b+c)
+
